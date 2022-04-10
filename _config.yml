@@ -1,5 +1,5 @@
 title: Your title
-theme: minima
+theme: jekyll-theme-minimal
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
